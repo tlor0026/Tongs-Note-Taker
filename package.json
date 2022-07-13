@@ -1,0 +1,24 @@
+{
+  "name": "tongs-note-taker",
+  "version": "1.0.0",
+  "description": "Tongs Note Taker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-boot-camp/miniature-eureka.git"
+  },
+  "author": "Tong Lor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-boot-camp/miniature-eureka/issues"
+  },
+  "homepage": "https://github.com/coding-boot-camp/miniature-eureka#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "path": "^0.12.7",
+    "uniqid": "^5.3.0"
+  }
+}
